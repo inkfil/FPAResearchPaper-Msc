@@ -5,6 +5,8 @@ Fire Detection using Artificial Neural Network and Fkower Polination Algorithm.
 
 ### Reference:
 - [Working of the Cuckoo Search Algorithm - Step-by-Step Explanations](https://www.youtube.com/watch?v=8sHkQ8kGEr8)
+- https://tutorial.math.lamar.edu/classes/calciii/lagrangemultipliers.aspx
+- https://www.youtube.com/watch?v=26T8npxgiik
 
 
 
@@ -18,4 +20,5 @@ Fire Detection using Artificial Neural Network and Fkower Polination Algorithm.
 - https://ideas.repec.org/a/spr/ijsaem/v8y2017i2d10.1007_s13198-017-0623-7.html
 - https://ieeexplore.ieee.org/document/8008644
 - https://www.wikiwand.com/en/List_of_metaphor-based_metaheuristics#/Flower_pollination_algorithm_(Yang,_2012)
-- 
+- https://journals.sagepub.com/doi/full/10.1177/2633366X20962499
+
