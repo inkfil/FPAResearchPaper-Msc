@@ -1,5 +1,5 @@
 # DeepakResearchPaper-MscII
-Fire Detection using Artificial Neural Network and Fkower Polination Algorithm.
+Fire Detection using Artificial Neural Network and Flower Polination Algorithm.
 
 
 
