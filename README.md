@@ -1,4 +1,4 @@
-# DeepakResearchPaper-MscII
+# FPA Paper-MscII
 Fire Detection using Artificial Neural Network and Flower Polination Algorithm.
 
 ###### Flower Pollination algorithm is used to optimize the hyperparameters of ANN model  such that the classification accuracy of ANN model increases
